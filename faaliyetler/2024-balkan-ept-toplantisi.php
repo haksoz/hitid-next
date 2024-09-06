@@ -225,15 +225,13 @@
 
 <p>9. Abstracts must be sent in a Microsoft Word file (.doc or .docx) to <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a> before September 30, 2024. </p>
 
-<p>10. After submission, you will receive a confirmation to the e-mail from which it was sent. It is recommended that this email address belongs to the corresponding/presenting author. If you do not receive a confirmation email within 2 days, please contact us at <a href="mailto:bept2023sofia@gmail.com">bept2023sofia@gmail.com</a></p>
+<p>10. After submission, you will receive a confirmation to the e-mail from which it was sent. It is recommended that this email address belongs to the corresponding/presenting author. If you do not receive a confirmation email within 2 days, please contact us at <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a></p>
 
-<p>11. Notifications of the approved abstracts will be sent to the email address provided by the presenting author no later than October 15, 2023. </p>
+<p>11. Notifications of the approved abstracts will be sent to the email address provided by the presenting author no later than October 15, 2024. </p>
 
 <p>12. No changes to the submitted abstracts will be made by the organizers. If you have any questions, please contact us at <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a></p>
 
-<p>13. All abstracts accepted for presentation will be published on the website of the Bulgarian Association of Clinical Immunology (BACI) before the conference. </p>
-
-<p>14. All abstracts accepted for presentation will be published in the Bulgarian Journal of Clinical Immunology</p>
+<p>13. All abstracts accepted for presentation will be published in the Bulgarian Journal of Clinical Immunology</p>
 
 
                                 </div>
