@@ -183,7 +183,7 @@
 <p>• Room assignments will be made based on application order and payment dates.</p>
 <p>• For payments not made on time or delayed after the congress date, a 10% surcharge, as advertised on budgets and the website, will be applied and passed on to you.</p>
 <p>• 10% VAT and %2 city tax will be added.</p>
-<p>For your accommodation requests, please contact us via our email address <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a></p>
+<p>• For your accommodation requests, please contact us via our email address <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a></p>
 
 <h5>Cancellation Policy For Registration</h5>
 <p>• Full Cancellation Deadline: July 24, 2023</p>
