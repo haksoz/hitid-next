@@ -39,7 +39,7 @@
                                 <div class="v3 brd-rd10 instagram_widget overflow-hidden ">
 
                                     <p style="text-align: center;">
-                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/pdf/eptbrochure.pdf" target="_blank" title=""><i class="fas fa-download"></i>Click to download EPT Brochure</a>
+                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/pdf/beptbrochure.pdf" target="_blank" title=""><i class="fas fa-download"></i>Click to download EPT Brochure</a>
                                     </p>
                                 </div>
                                 <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100">
@@ -87,7 +87,7 @@
                                         <p class="mb-0">Scientific Program</p>
                                     </blockquote>
 
-                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/ept-scientific-program.jpg" alt="Service Detail Image">
+                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/bept-scientific-program.jpg" alt="Service Detail Image">
                                    
                                 </div>
 
@@ -140,7 +140,10 @@
 
 
                                     <p>• The attendance to the meeting is free of charge.</p>
+                                    <!--
                                     <p>• Registrations will be conducted via the registration form available on the meeting's website.</p>
+                                -->
+                                    <p>• The attendance at our <b>Gala Night</b> is free of charge. Kindly ensure you indicate your participation status when completing the registration form.</p>
 
 <div class="tg-wrap">
     <table class="tg" style="undefined;table-layout: fixed; width: 342px"><colgroup>
