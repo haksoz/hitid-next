@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css?v=003">
 	<link rel="stylesheet" href="assets/css/animate.min.css?v=003">
 	<link rel="stylesheet" href="assets/css/fontawesome-all.css?v=003">
-	<link rel="stylesheet" href="assets/css/style.css?v=003">
+	<link rel="stylesheet" href="assets/css/style.css?v=004">
 	<link rel="stylesheet" type="text/css" href="assets/css/colors/switch.css?v=003">
 	<!-- Color Alternatives -->
 	<link href="assets/css/colors/color-2.css?v=003" rel="alternate stylesheet" type="text/css" title="color-2">
@@ -193,6 +193,19 @@
 												</div>
 											</div>
 										</div>
+                                        <div class="col-md-12">
+                                            <div class="n-summary">
+                                                <span>Gala Night</span>
+                                                <label>
+                                                    <input type="radio" checked="checked" name="gala_night" value="will attend">
+                                                    <span class="checkmark">I will attend</span>
+                                                </label>
+                                                <label>
+                                                    <input type="radio" name="gala_night" value="will not attend">
+                                                    <span class="checkmark">I will not attend</span>
+                                                </label>
+                                            </div>
+                                        </div>
 									</div>
 								</div>
 								<div class="wizard-footer" style="min-height: 110px">

@@ -1,5 +1,5 @@
 <?php
-$required_fields = ['title', 'full_name', 'gender', 'department', 'institute', 'address', 'city', 'country', 'postalCode', 'email', 'registration'];
+$required_fields = ['title', 'full_name', 'gender', 'department', 'institute', 'address', 'city', 'country', 'postalCode','gala_night', 'email', 'registration'];
 $missing_fields = [];
 
 foreach ($required_fields as $field) {

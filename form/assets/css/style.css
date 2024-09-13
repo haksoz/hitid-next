@@ -1326,8 +1326,8 @@ select.form-control option[value=""][disabled] {
 }
 .n-summary label span {
   position: relative;
-  font-weight: 400;
-  font-size: 18px;
+  font-weight: 500;
+  font-size: 20px;
   top: -7px;
 }
 .n-summary input, .n-summary .wizard-form-field select, .wizard-form-field .n-summary select {
