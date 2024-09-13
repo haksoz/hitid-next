@@ -197,7 +197,7 @@
                                             <div class="n-summary">
                                                 <span>Gala Night</span>
                                                 <label>
-                                                    <input type="radio" checked="checked" name="gala_night" value="will attend">
+                                                    <input type="radio" name="gala_night" value="will attend">
                                                     <span class="checkmark">I will attend</span>
                                                 </label>
                                                 <label>
