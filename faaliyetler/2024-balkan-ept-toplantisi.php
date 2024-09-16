@@ -17,7 +17,7 @@
                 <div class="container">
                     <div class="page-title-wrap text-center w-100">
                         <div class="page-title-inner d-inline-block">
-                            <h1 class="mb-0">2024 Balkan EPT Toplantısı</h1>
+                            <h1 class="mb-0">2024 Balkan EPT Toplantısı </h1>
                         </div>
                     </div><!-- Page Title Wrap -->
                 </div>
