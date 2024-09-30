@@ -159,24 +159,32 @@
 <thead>
   <tr>
     <th class="tg-amwm">Hotel</th>
+    <!--
     <th class="tg-amwm">SNG</th>
-    <th class="tg-amwm">DBL</th>
+    <th class="tg-amwm">DBL</th> 
+-->
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-i6s1">Istanbul Marriott, Şişli</td>
+    <!--
     <td class="tg-i6s1">175 EUR</td>
-    <td class="tg-i6s1">185 EUR</td>
+    <td class="tg-i6s1">185 EUR</td> 
+-->
   </tr>
   <tr>
     <td class="tg-baqh">İbis Hotel</td>
+    <!--
     <td class="tg-baqh"><span style="font-weight:400;font-style:normal">90 EUR</span></td>
     <td class="tg-baqh"><span style="font-weight:400;font-style:normal">100 EUR</span></td>
+-->
   </tr>
   <tr>
     <td class="tg-i6s1">Divan Hotel</td>
+    <!--
     <td class="tg-i6s1"><span style="font-weight:400;font-style:normal">125 EUR</span></td>
     <td class="tg-i6s1"><span style="font-weight:400;font-style:normal">135 EUR</span></td>
+-->
   </tr>
 </tbody>
 </table>
@@ -185,8 +193,9 @@
 <br>
 
 
+<p>• For your accommodation requests, please contact us via our email address <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a></p>
 
-
+<!--
 <p>• Accommodation prices are based on a 1-night.</p>
 <p>• Room assignments will be made based on application order and payment dates.</p>
 <p>• For payments not made on time or delayed after the congress date, a 10% surcharge, as advertised on budgets and the website, will be applied and passed on to you.</p>
@@ -197,6 +206,7 @@
 <p>• Full Cancellation Deadline: July 24, 2023</p>
 <p>• All refund/cancellation requests must be provided in writing and received by July 24, 2023. </p>
 <p>• After July 24, 2023, no refunds will be given for registration cancellations.</p>
+-->
 
 
 
