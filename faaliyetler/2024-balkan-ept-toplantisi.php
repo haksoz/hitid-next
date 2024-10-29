@@ -250,7 +250,6 @@
 
 <p>12. No changes to the submitted abstracts will be made by the organizers. If you have any questions, please contact us at <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a></p>
 
-<p>13. All abstracts accepted for presentation will be published in the Bulgarian Journal of Clinical Immunology</p>
 
 
                                 </div>
