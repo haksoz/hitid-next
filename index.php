@@ -26,7 +26,7 @@
                                     </div>
                                     <div class="image">
                                         <a href="/faaliyetler/2024-balkan-ept-toplantisi.php">
-                                            <img src="doc/balkanEPT16_9kapak.jpg" alt="" />
+                                            <img src="doc/faaliyetler/2024-balkan-ept/balkanEPT16_9kapak.jpg" alt="" />
                                         </a>
                                     </div>
                                 </div>

@@ -34,7 +34,7 @@
                              <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                 
                                 <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100" src="/doc/faaliyetler/balkanEPT16_9kapak.jpg" alt="Service Detail Image">
+                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/balkanEPT16_9kapak.jpg" alt="Service Detail Image">
                                 </div>
                                 <div class="v3 brd-rd10 instagram_widget overflow-hidden ">
 
@@ -91,8 +91,8 @@
                                         <p class="mb-0">Scientific Program</p>
                                     </blockquote>
                                     
-                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/eptbrochureprogram-1.png?v=3" alt="Service Detail Image">
-                                    <img class="img-fluid w-100 mt-4" src="/doc/faaliyetler/2024-balkan-ept/eptbrochureprogram-2.png?v=3" alt="Service Detail Image">
+                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/eptbrochureprogram-1.jpg?v=3" alt="Service Detail Image">
+                                    <img class="img-fluid w-100 mt-4" src="/doc/faaliyetler/2024-balkan-ept/eptbrochureprogram-2.jpg?v=3" alt="Service Detail Image">
                                    
                                 </div>
 
