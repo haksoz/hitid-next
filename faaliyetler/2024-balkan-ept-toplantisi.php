@@ -91,7 +91,7 @@
                                         <p class="mb-0">Scientific Program</p>
                                     </blockquote>
                                     
-                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/BEPT2024-Scientific-Program.jpg?v=3" alt="Service Detail Image">
+                                    <img class="img-fluid w-100" src="/doc/faaliyetler/2024-balkan-ept/BEPT2024-Scientific-Program-v2.jpg?v=3" alt="Service Detail Image">
                                    
                                 </div>
 
