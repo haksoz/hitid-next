@@ -2,6 +2,7 @@
                                     <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
                                         <h4 class="position-relative tit-shp widget-title3">Faaliyetler</h4>
                                         <ul class="mb-0 list-unstyled w-100">
+                                            <li><a href="tji-balkan-ept-meeting-2024-ozel-sayi-13012025.php" title="JI-Balkan EPT Meeting 2024 Özel Sayı">TJI-Balkan EPT Meeting 2024 Özel Sayı (13.01.2025)</a></li>
                                             <li><a href="2024-balkan-ept-toplantisi.php" title="2023 BEPT Toplantısı">2024 BEPT Toplantısı</a></li>
                                             <li><a href="25-aralik-2023-6-hla-gunleri.php" title="VI.HLA Günleri">
                                             VI.HLA Günleri</a></li>

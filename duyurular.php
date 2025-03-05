@@ -37,9 +37,6 @@
                                                 <a href="/duyurular/hitid-gazetesi-18-kasim-2024.php">HİTİD Gazetesi 1. Sayı (18 KASIM 2024)</a>
                                             </li>
                                             <li>
-                                                <a href="/duyurular/tji-balkan-ept-meeting-2024-ozel-sayi-13012025.php">TJI-Balkan EPT Meeting 2024 Özel Sayı (13.01.2025)</a>
-                                            </li>
-                                            <li>
                                                 <a href="/duyurular/balkan-ept-toplantisi-15-16-november-2024-istanbul-marriot-hotel-sislide-yapilacaktir.php">Balkan EPT Toplantısı, 15-16 November 2024, İstanbul Marriot Hotel, Şişli'de yapılacaktır.</a>
                                             </li>
                                             <li>
