@@ -143,7 +143,7 @@
                         <div class="row mrg30">
                             <div class="col-md-12 col-sm-12 col-lg-6 order-lg-1">
                                 <div class="about-img position-relative w-100">
-                                    <img class="img-fluid w-100" src="https://hitid.org/wp-content/uploads/2021/05/gallery-3.jpg"
+                                    <img class="img-fluid w-100" src="doc/gallery-3.jpg"
                                         alt="About Image">
                                 </div>
                             </div>
