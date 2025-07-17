@@ -113,6 +113,15 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box w-100">
                                     <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
+                                        <h3 class="mb-0"><a href="/duyurular/1-ulusal-hitid-kongresi.php" title="">1. Ulusal Hitid Kongresi</a></h3>
+
+                                        <p class="mb-0">HLA İmmünogenetik ve Transplantasyon İmmünolojisi Derneği (HİTİD) adına, 21- 23 Kasım 2025 tarihlerinde Antalya Royal Hotel’de gerçekleştirilmesi planlanan ilk kongremizi duyurmaktan mutluluk duyuyoruz.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-lg-4">
+                                <div class="news-box w-100">
+                                    <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
                                         <h3 class="mb-0"><a href="/duyurular/balkan-ept-toplantisi-15-16-november-2024-istanbul-marriot-hotel-sislide-yapilacaktir.php" title="">Balkan EPT Meeting</a></h3>
 
                                         <p class="mb-0">Balkan EPT Toplantısı, 15-16 November 2024, İstanbul Marriot Hotel,

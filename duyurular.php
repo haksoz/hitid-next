@@ -34,6 +34,9 @@
                                     <div class="post-detail w-100">
                                         <ul class="mb-0 list-unstyled">
                                             <li>
+                                                <a href="/duyurular/1-ulusal-hitid-kongresi.php">1. Ulusal Hitid Kongresi</a>
+                                            </li>
+                                            <li>
                                                 <a href="/duyurular/hitid-gazetesi-18-kasim-2024.php">HİTİD Gazetesi 1. Sayı (18 KASIM 2024)</a>
                                             </li>
                                             <li>
