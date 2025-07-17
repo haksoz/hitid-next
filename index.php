@@ -34,6 +34,27 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="slide">
+                    <div class="container">
+                        <div class="row clearfix justify-content-center">
+                            <!-- Image Column -->
+                            <div class="image-column col-lg-10 cl-md-10 col-sm-10">
+                                <div class="inner-column">
+                                    <div class="circle-layer">
+                                        <span class="circle-one"></span>
+                                        <span class="circle-two"></span>
+                                    </div>
+                                    <div class="image">
+                                        <a href="https://hitid2025.org/" target="_blank">
+                                            <img src="/doc/hitid-kongre-banner.jpg" alt="1. Ulusal HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Kongresi" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
         <!-- End Main Slider Section -->
