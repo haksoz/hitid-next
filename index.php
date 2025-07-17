@@ -25,8 +25,8 @@
                                         <span class="circle-two"></span>
                                     </div>
                                     <div class="image">
-                                        <a href="/faaliyetler/2024-balkan-ept-toplantisi.php">
-                                            <img src="doc/faaliyetler/2024-balkan-ept/balkanEPT16_9kapak.jpg" alt="" />
+                                        <a href="https://hitid2025.org/" target="_blank">
+                                            <img src="/doc/hitid-kongre-banner.jpg" alt="1. Ulusal HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Kongresi" />
                                         </a>
                                     </div>
                                 </div>
@@ -34,7 +34,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="slide">
                     <div class="container">
                         <div class="row clearfix justify-content-center">
@@ -46,8 +45,8 @@
                                         <span class="circle-two"></span>
                                     </div>
                                     <div class="image">
-                                        <a href="https://hitid2025.org/" target="_blank">
-                                            <img src="/doc/hitid-kongre-banner.jpg" alt="1. Ulusal HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Kongresi" />
+                                        <a href="/faaliyetler/2024-balkan-ept-toplantisi.php">
+                                            <img src="doc/faaliyetler/2024-balkan-ept/balkanEPT16_9kapak.jpg" alt="" />
                                         </a>
                                     </div>
                                 </div>
@@ -55,6 +54,8 @@
                         </div>
                     </div>
                 </div>
+                
+
             </div>
         </section>
         <!-- End Main Slider Section -->
