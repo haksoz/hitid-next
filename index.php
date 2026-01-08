@@ -133,9 +133,18 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box w-100">
                                     <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
+                                        <h3 class="mb-0"><a href="/duyurular/2-hitid-transplantasyon-gunleri-6-subat-2026.php" title="">2. HİTİD Transplantasyon Günleri</a></h3>
+
+                                        <p class="mb-0">6 Şubat 2026 tarihinde İstanbul'da, İstinye Üniversitesi Konferans Salonu Cevizlibağ-Topkapı adresinde yapılacaktır.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-lg-4">
+                                <div class="news-box w-100">
+                                    <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
                                         <h3 class="mb-0"><a href="/duyurular/1-ulusal-hitid-kongresi.php" title="">1. Ulusal Hitid Kongresi</a></h3>
 
-                                        <p class="mb-0">HLA İmmünogenetik ve Transplantasyon İmmünolojisi Derneği (HİTİD) adına, 21- 23 Kasım 2025 tarihlerinde Antalya Royal Hotel’de gerçekleştirilmesi planlanan ilk kongremizi duyurmaktan mutluluk duyuyoruz.</p>
+                                        <p class="mb-0">HLA İmmünogenetik ve Transplantasyon İmmünolojisi Derneği (HİTİD) adına, 21- 23 Kasım 2025 tarihlerinde Antalya Royal Hotel'de gerçekleştirilmesi planlanan ilk kongremizi duyurmaktan mutluluk duyuyoruz.</p>
                                     </div>
                                 </div>
                             </div>
