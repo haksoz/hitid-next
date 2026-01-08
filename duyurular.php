@@ -34,6 +34,9 @@
                                     <div class="post-detail w-100">
                                         <ul class="mb-0 list-unstyled">
                                             <li>
+                                                <a href="/duyurular/2-hitid-transplantasyon-gunleri-6-subat-2026.php">2. HİTİD Transplantasyon Günleri, 6 Şubat 2026</a>
+                                            </li>
+                                            <li>
                                                 <a href="/duyurular/1-ulusal-hitid-kongresi.php">1. Ulusal Hitid Kongresi</a>
                                             </li>
                                             <li>
