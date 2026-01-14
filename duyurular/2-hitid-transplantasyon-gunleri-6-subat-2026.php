@@ -50,10 +50,10 @@
                                     
                                     <h5 class="mt-4 mb-3">Program Detayları:</h5>
                                     <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100 mb-4">
-                                        <img class="img-fluid w-100" src="/doc/duyurular/transplantasyonda-antikorlar-1.png" alt="Program - Sayfa 1">
+                                        <img class="img-fluid w-100" src="/doc/duyurular/transplantasyonda-antikorlar-1.png?v=1123" alt="Program - Sayfa 1">
                                     </div>
                                     <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100 mb-4">
-                                        <img class="img-fluid w-100" src="/doc/duyurular/transplantasyonda-antikorlar-2.png" alt="Program - Sayfa 2">
+                                        <img class="img-fluid w-100" src="/doc/duyurular/transplantasyonda-antikorlar-2.png?v=1123" alt="Program - Sayfa 2">
                                     </div>
                                 </div>
                             </div>
