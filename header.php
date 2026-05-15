@@ -44,7 +44,7 @@
                             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Hakkımızda</a>
                                 <ul class="mb-0 list-unstyled">
                                     <li><a href="/yonetim-kurulu.php" title="">Yönetim Kurulu</a></li>
-                                    <li><a href="/uyelerimiz.php" title="">Üyelerimiz</a></li>
+<!--                                    <li><a href="/uyelerimiz.php" title="">Üyelerimiz</a></li>-->
                                     <li><a href="/tuzuk.php" title="">Tüzük</a></li>
                                     <li><a href="/calisma-gruplari.php" title="">Çalışma Grupları</a></li>
                                     <li><a href="/uyelik-formu.php" title="">Üyelik Formu</a></li>

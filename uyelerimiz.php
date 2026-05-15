@@ -32,111 +32,105 @@
                             <div class="col-md-6 col-sm-8 col-lg-4">
                                 <aside class="sidebar w-100">
                                     <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
-                                        <h4 class="position-relative tit-shp widget-title3">Hakkımızda</h4>
-                                        <ul class="mb-0 list-unstyled w-100">
-                                            <li><a href="yonetim-kurulu.php" title="">Yönetim Kurulu</a></li>
-                                            <li><a href="uyelerimiz.php" title="">Üyelerimiz</a></li>
-                                            <li><a href="tuzuk.php" title="">Tüzük</a></li>
-                                            <li><a href="calisma-gruplari.php" title="">Çalışma Grupları</a></li>
-                                            <li><a href="uyelik-formu.php" title="">Üyelik Formu</a></li>                                        </ul>
+                                        <?php include ('hakkimizda-left-menu.php') ?>
                                     </div>
                                 </aside><!-- Sidebar -->
                             </div>
                              <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                 <div class="post-detail w-100">
-                                    <h3>Üye Listesi</h3>
+<!--                                    <h3>Üye Listesi</h3>-->
                                     <p>
-                                        ALİ İNAL (KURUCU)<br>
-                                        ALİ ŞENGÜL (KURUCU)<br>
-                                        BİLKAY BAŞTÜRK (KURUCU)<br>
-                                        ÇİĞDEM ÇINAR (KURUCU)<br>
-                                        EMEL YANTIR (KURUCU)<br>
-                                        ERKAN YILMAZ(KURUCU)<br>
-                                        FATMA OĞUZ (KURUCU)<br>
-                                        FÜSUN ÖZMEN (KURUCU)<br>
-                                        GÜLDEREN DEMİREL (KURUCU)<br>
-                                        HALUK BARBAROS ORAL (KURUCU)<br>
-                                        IŞIL ÇOKER (KURUCU)<br>
-                                        İBRAHİM MEHMET ALİ ÖKTEM (KURUCU)<br>
-                                        KLARA DALVA (KURUCU)<br>
-                                        NESLİHAN ŞENGÜL ŞİMŞEK (KURUCU)<br>
-                                        SALİH HALDUN BAL (KURUCU)<br>
-                                        ZEYNEP EMEL DEMİRALP (KURUCU)<br>
-                                        BURHAN CAĞCAĞ<br>
-                                        ALİ UYSAL<br>
-                                        AYBİKE BOSTANCI<br>
-                                        BİRCAN KANTAROĞLU<br>
-                                        DERYA GÜLEÇ<br>
-                                        EBRU BAKTEMUR<br>
-                                        EDA BALKAN<br>
-                                        FİLİZ ALKAN BAYLAN<br>
-                                        FİLİZ ORAK<br>
-                                        JÜLİDE TOZKIR<br>
-                                        MİRAY KAVUZLU<br>
-                                        MURAT YURT<br>
-                                        EMİNE YAĞCI<br>
-                                        UĞUR BAYRAKTAROĞLU<br>
-                                        AYŞE GÜL ZAMANİ<br>
-                                        BİNNAZ ÖZCAN<br>
-                                        BANU TERZİ<br>
-                                        SİBEL AVŞAR KAŞKA<br>
-                                        PELİN KARAOĞLU<br>
-                                        MELEK ERDOĞAN<br>
-                                        BAŞAK POLAT<br>
-                                        YELİZ ÖGRET<br>
-                                        DEMET KIVANÇ<br>
-                                        GÖZDE ÖZTAN<br>
-                                        MEDİHA SÜLEYMANOĞLU<br>
-                                        AYŞE EROL<br>
-                                        SONAY TEMURHAN<br>
-                                        HAYRİYE ÇİFTÇİ ŞENTÜRK<br>
-                                        ELİF ÇOBAN<br>
-                                        TUĞBA BOZKURT<br>
-                                        ÇAĞLA ALPGİLAY<br>
-                                        HASAN DOĞAN<br>
-                                        AYŞEN TERZİ<br>
-                                        HANDAN ÖZDEMİR<br>
-                                        BURAK SAYIN<br>
-                                        ESRA BİLİR<br>
-                                        HANİFE KABA<br>
-                                        EBRU OGAN UYANIK<br>
-                                        MUTLU KASAR<br>
-                                        SALİME SEDA ALTAN<br>
-                                        NİHAL ALAN<br>
-                                        GONCA OTLU<br>
-                                        AYŞENUR TEMUR<br>
-                                        MEHTAP BERNA ALTUN<br>
-                                        DAMLA KILIÇ<br>
-                                        GAMZE ENSAR<br>
-                                        ŞEYMA ÖZTÜRK<br>
-                                        MEHTAP ÜLKER<br>
-                                        ZEHRA BOLAT<br>
-                                        FATMA TURĞUT KAYNAK<br>
-                                        İBRAHİM EKER<br>
-                                        EMEL GÜÇYENER<br>
-                                        ZAFER GÜLBAŞ<br>
-                                        ÇİĞDEM GÜMÜŞ<br>
-                                        MAKBULE NİHAN SOMUNCU<br>
-                                        MAHMUT SELMAN YILDRIM<br>
-                                        İLYAS ÖZSOY<br>
-                                        ESMA DOĞRU<br>
-                                        GÜL ÖZGE GÜLERYÜZ<br>
-                                        İSMAİL YAZ<br>
-                                        BEGÜM ÇİÇEK<br>
-                                        İLKNUR ÖZTÜRK<br>
-                                        GAMZENUR DEMİREL<br>
-                                        CEREN KOCATÜRK<br>
-                                        ELİF ARSLAN<br>
-                                        RÜŞTÜ OĞUZ<br>
-                                        TÜLAY AYNA<br>
-                                        ÖZNUR KORKMAZ<br>
-                                        KÜRŞAT ÖZDİLLİ<br>
-                                        BİRSEN KAHRAMAN<br>
-                                        MEHTAP TAŞ<br>
-                                        ÖMER FARUK BAYRAK<br>
-                                        MEDİHA GÜNEŞ<br>
-                                        FERAH BUDAK<br>
-                                        EBRU KARPUZOĞLU
+<!--                                        ALİ İNAL (KURUCU)<br>-->
+<!--                                        ALİ ŞENGÜL (KURUCU)<br>-->
+<!--                                        BİLKAY BAŞTÜRK (KURUCU)<br>-->
+<!--                                        ÇİĞDEM ÇINAR (KURUCU)<br>-->
+<!--                                        EMEL YANTIR (KURUCU)<br>-->
+<!--                                        ERKAN YILMAZ(KURUCU)<br>-->
+<!--                                        FATMA OĞUZ (KURUCU)<br>-->
+<!--                                        FÜSUN ÖZMEN (KURUCU)<br>-->
+<!--                                        GÜLDEREN DEMİREL (KURUCU)<br>-->
+<!--                                        HALUK BARBAROS ORAL (KURUCU)<br>-->
+<!--                                        IŞIL ÇOKER (KURUCU)<br>-->
+<!--                                        İBRAHİM MEHMET ALİ ÖKTEM (KURUCU)<br>-->
+<!--                                        KLARA DALVA (KURUCU)<br>-->
+<!--                                        NESLİHAN ŞENGÜL ŞİMŞEK (KURUCU)<br>-->
+<!--                                        SALİH HALDUN BAL (KURUCU)<br>-->
+<!--                                        ZEYNEP EMEL DEMİRALP (KURUCU)<br>-->
+<!--                                        BURHAN CAĞCAĞ<br>-->
+<!--                                        ALİ UYSAL<br>-->
+<!--                                        AYBİKE BOSTANCI<br>-->
+<!--                                        BİRCAN KANTAROĞLU<br>-->
+<!--                                        DERYA GÜLEÇ<br>-->
+<!--                                        EBRU BAKTEMUR<br>-->
+<!--                                        EDA BALKAN<br>-->
+<!--                                        FİLİZ ALKAN BAYLAN<br>-->
+<!--                                        FİLİZ ORAK<br>-->
+<!--                                        JÜLİDE TOZKIR<br>-->
+<!--                                        MİRAY KAVUZLU<br>-->
+<!--                                        MURAT YURT<br>-->
+<!--                                        EMİNE YAĞCI<br>-->
+<!--                                        UĞUR BAYRAKTAROĞLU<br>-->
+<!--                                        AYŞE GÜL ZAMANİ<br>-->
+<!--                                        BİNNAZ ÖZCAN<br>-->
+<!--                                        BANU TERZİ<br>-->
+<!--                                        SİBEL AVŞAR KAŞKA<br>-->
+<!--                                        PELİN KARAOĞLU<br>-->
+<!--                                        MELEK ERDOĞAN<br>-->
+<!--                                        BAŞAK POLAT<br>-->
+<!--                                        YELİZ ÖGRET<br>-->
+<!--                                        DEMET KIVANÇ<br>-->
+<!--                                        GÖZDE ÖZTAN<br>-->
+<!--                                        MEDİHA SÜLEYMANOĞLU<br>-->
+<!--                                        AYŞE EROL<br>-->
+<!--                                        SONAY TEMURHAN<br>-->
+<!--                                        HAYRİYE ÇİFTÇİ ŞENTÜRK<br>-->
+<!--                                        ELİF ÇOBAN<br>-->
+<!--                                        TUĞBA BOZKURT<br>-->
+<!--                                        ÇAĞLA ALPGİLAY<br>-->
+<!--                                        HASAN DOĞAN<br>-->
+<!--                                        AYŞEN TERZİ<br>-->
+<!--                                        HANDAN ÖZDEMİR<br>-->
+<!--                                        BURAK SAYIN<br>-->
+<!--                                        ESRA BİLİR<br>-->
+<!--                                        HANİFE KABA<br>-->
+<!--                                        EBRU OGAN UYANIK<br>-->
+<!--                                        MUTLU KASAR<br>-->
+<!--                                        SALİME SEDA ALTAN<br>-->
+<!--                                        NİHAL ALAN<br>-->
+<!--                                        GONCA OTLU<br>-->
+<!--                                        AYŞENUR TEMUR<br>-->
+<!--                                        MEHTAP BERNA ALTUN<br>-->
+<!--                                        DAMLA KILIÇ<br>-->
+<!--                                        GAMZE ENSAR<br>-->
+<!--                                        ŞEYMA ÖZTÜRK<br>-->
+<!--                                        MEHTAP ÜLKER<br>-->
+<!--                                        ZEHRA BOLAT<br>-->
+<!--                                        FATMA TURĞUT KAYNAK<br>-->
+<!--                                        İBRAHİM EKER<br>-->
+<!--                                        EMEL GÜÇYENER<br>-->
+<!--                                        ZAFER GÜLBAŞ<br>-->
+<!--                                        ÇİĞDEM GÜMÜŞ<br>-->
+<!--                                        MAKBULE NİHAN SOMUNCU<br>-->
+<!--                                        MAHMUT SELMAN YILDRIM<br>-->
+<!--                                        İLYAS ÖZSOY<br>-->
+<!--                                        ESMA DOĞRU<br>-->
+<!--                                        GÜL ÖZGE GÜLERYÜZ<br>-->
+<!--                                        İSMAİL YAZ<br>-->
+<!--                                        BEGÜM ÇİÇEK<br>-->
+<!--                                        İLKNUR ÖZTÜRK<br>-->
+<!--                                        GAMZENUR DEMİREL<br>-->
+<!--                                        CEREN KOCATÜRK<br>-->
+<!--                                        ELİF ARSLAN<br>-->
+<!--                                        RÜŞTÜ OĞUZ<br>-->
+<!--                                        TÜLAY AYNA<br>-->
+<!--                                        ÖZNUR KORKMAZ<br>-->
+<!--                                        KÜRŞAT ÖZDİLLİ<br>-->
+<!--                                        BİRSEN KAHRAMAN<br>-->
+<!--                                        MEHTAP TAŞ<br>-->
+<!--                                        ÖMER FARUK BAYRAK<br>-->
+<!--                                        MEDİHA GÜNEŞ<br>-->
+<!--                                        FERAH BUDAK<br>-->
+<!--                                        EBRU KARPUZOĞLU-->
                                     </p>
                                     <!-- <div class="get-time-box brd-rd10 bg-white w-100">
                                         <span class="d-flex flex-wrap justify-content-between align-items-center w-100">ALİ İNAL<i>KURUCU</i></span>
