@@ -1756,17 +1756,17 @@ header.style2 .logo.v2 {
   clip-path: polygon(100% 0, 0 0, 100% 100%);
 }
 .logo.v2:before {
-  height: 2.1875rem;
-  bottom: -2.125rem;
+  height: 1.1875rem;
+  bottom: -1.125rem;
   background-color: inherit;
 }
 .logo.v2:after {
   height: 12px;
-  bottom: -1.6875rem;
-  -webkit-transform: rotate(11deg);
-  -ms-transform: rotate(11deg);
-  -o-transform: rotate(11deg);
-  transform: rotate(11deg);
+  bottom: -1.2rem;
+  -webkit-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  transform: rotate(5deg);
   right: -1px;
   left: -5px;
 }
