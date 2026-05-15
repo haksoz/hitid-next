@@ -52,7 +52,7 @@
                             </li>
                             <!-- <li><a href="#" title="">Yönetim Kurulu</a></li> -->
                             <!-- <li><a href="#" title="">Çalışma Grupları</a></li> -->
-                            <li><a href="/faaliyetler/2024-balkan-ept-toplantisi.php" title="">Faaliyetler</a></li>
+                            <li><a href="/faaliyetler/12-haziran-2026-hitid-izmir-bolge-toplantisi.php" title="">Faaliyetler</a></li>
                             <li><a href="/egitimler.php" title="">Eğitimler</a></li>
                             <!-- <li><a href="#" title="">Üyelik Formu</a></li> -->
                             <li><a href="/duyurular.php" title="">Duyurular</a></li>
@@ -87,7 +87,7 @@
                         <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Hakkımızda</a>
                             <ul class="mb-0 list-unstyled">
                                 <li><a href="/yonetim-kurulu.php" title="">Yönetim Kurulu</a></li>
-                                <li><a href="/uyelerimiz.php" title="">Üyelerimiz</a></li>
+<!--                                <li><a href="/uyelerimiz.php" title="">Üyelerimiz</a></li>-->
                                 <li><a href="/tuzuk.php" title="">Tüzük</a></li>
                                 <li><a href="/calisma-gruplari.php" title="">Çalışma Grupları</a></li>
                                 <li><a href="/uyelik-formu.php" title="">Üyelik Formu</a></li>
@@ -95,7 +95,7 @@
                         </li>
                         <!-- <li><a href="#" title="">Yönetim Kurulu</a></li> -->
                         <!-- <li><a href="#" title="">Çalışma Grupları</a></li> -->
-                        <li><a href="/faaliyetler/2024-balkan-ept-toplantisi.php" title="">Faaliyetler</a></li>
+                        <li><a href="/faaliyetler/12-haziran-2026-hitid-izmir-bolge-toplantisi.php" title="">Faaliyetler</a></li>
                         <li><a href="/egitimler.php" title="">Eğitimler</a></li>
                         <!-- <li><a href="#" title="">Üyelik Formu</a></li> -->
                         <li><a href="/duyurular.php" title="">Duyurular</a></li>
@@ -125,7 +125,7 @@
             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Hakkımızda</a>
                 <ul class="mb-0 list-unstyled">
                     <li><a href="/yonetim-kurulu.php" title="">Yönetim Kurulu</a></li>
-                    <li><a href="/uyelerimiz.php" title="">Üyelerimiz</a></li>
+<!--                    <li><a href="/uyelerimiz.php" title="">Üyelerimiz</a></li>-->
                     <li><a href="/tuzuk.php" title="">Tüzük</a></li>
                     <li><a href="/calisma-gruplari.php" title="">Çalışma Grupları</a></li>
                     <li><a href="/uyelik-formu.php" title="">Üyelik Formu</a></li>
@@ -133,7 +133,7 @@
             </li>
             <!-- <li><a href="#" title="">Yönetim Kurulu</a></li> -->
             <!-- <li><a href="#" title="">Çalışma Grupları</a></li> -->
-            <li><a href="/faaliyetler/2024-balkan-ept-toplantisi.php" title="">Faaliyetler</a></li>
+            <li><a href="/faaliyetler/12-haziran-2026-hitid-izmir-bolge-toplantisi.php" title="">Faaliyetler</a></li>
             <li><a href="/egitimler.php" title="">Eğitimler</a></li>
             <!-- <li><a href="#" title="">Üyelik Formu</a></li> -->
             <li><a href="/duyurular.php" title="">Duyurular</a></li>
