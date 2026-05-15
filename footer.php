@@ -10,16 +10,7 @@
                             <h4 class="widget-title2 position-relative">HLA İmmünogenetiği ve <br>Transplantasyon İmmünolojisi Derneği</h4>
                             <ul class="contact-info-list mb-0 list-unstyled w-100">
                                 <li>Adres: Aksaray Mah. İnkılap Cad. Koşar Han. <br>No:16 İç Kapı 204 Fatih / İSTANBUL</li>
-                                <li>E-Posta: <a href="mailto:info@hitid.org" title="">info@hitid.org</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-lg-4">
-                        <div class="widget-box v2 w-100">
-                            <h4 class="widget-title2 position-relative">Faydalı Linkler</h4>
-                            <ul class="mb-0 list-unstyled w-100">
-                                <li><a href="https://hitid.org/" title="">Hitid.org</a></li>
-                                
+                                <li>E-Posta: <a href="mailto:info@hitid.org" title="" class="footer-link">info@hitid.org</a></li>
                             </ul>
                             <div class="social-links3 d-flex flex-wrap align-items-center w-100">
                                 <!--
@@ -30,14 +21,19 @@
                                 <a class="rounded-circle youtube-hvr" href="#"
                                     title="Youtube" target="_blank"><i class="fab fa-youtube"></i></a>
                                 -->
-                                <a class="rounded-circle linkedin-hvr" href="https://www.instagram.com/hitid_2022/"
-                                    title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-
-
-                              
-
-
+                                <a class="rounded-circle linkedin-hvr" href="https://www.instagram.com/hitid_2022/" title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-lg-4">
+                        <div class="widget-box v2 w-100">
+                            <h4 class="widget-title2 position-relative">Faydalı Linkler</h4>
+                            <ul class="mb-0 list-unstyled w-100 faydali-linkler">
+                                <li><a href="https://efi-web.org/" target="_blank" title="European Federation for Immunogenetics (EFI)">European Federation for Immunogenetics (EFI)</a></li>
+                                <li><a href="https://www.imgt.org/" target="_blank" title="THE International Immunogenetics Information System">THE International Immunogenetics Information System</a></li>
+                                <li><a href="https://www.ebi.ac.uk/" target="_blank" title="EMBL's European Bioinformatics Institute">EMBL's European Bioinformatics Institute</a></li>
+                                <li><a href="https://ukneqas-vunhst.wales.nhs.uk/" target="_blank" title="UK NEQAS">UK NEQAS</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>

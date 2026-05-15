@@ -1091,8 +1091,8 @@ button i {
 .widget-box.v2 .social-links3 > a.linkedin-hvr:focus,
 .prod-detail-meta .social-links5 > a.linkedin-hvr:hover,
 .prod-detail-meta .social-links5 > a.linkedin-hvr:focus {
-  background-color: #0077B5;
-  border-color: #0077B5;
+  background-color: #3ebbff;
+  border-color: #3ebbff;
 }
 .youtube,
 .youtube-hvr:hover,
@@ -3226,15 +3226,23 @@ ul.meta + p {margin-top: 14px;}
   max-width: 100%;
   margin-top: 7px;
 }
-.widget-box.v2 ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li {font-size: 1rem;}
+.widget-box.v2 ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li {font-size: 1.15rem;}
 .col-lg-4 .widget-box ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li {
-  flex: 0 0 50%;
-  max-width: 50%;
-  padding-right: 1.25rem;
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding-right: 0;
+  list-style-type: disc;
 }
-.widget-box ul.contact-info-list li {
+.faydali-linkler li, .faydali-linkler li a, .footer-link{
+  color:#ffffff !important;
+}
+.faydali-linkler li:hover, .faydali-linkler li a:hover, .footer-link:hover{
+  color:#3ebbff !important;
+}
+.dark-layer .widget-box ul.contact-info-list li {
   font-size: 1rem;
   font-weight: 500;
+  color:#ffffff;
 }
 .col-lg-4 .widget-box ul.contact-info-list li {max-width: 80%;}
 .bg-color7 .widget-box ul > li,
@@ -3310,7 +3318,7 @@ form.newsletter-form button {
 }
 .social-links3 > a {
   display: inline-block;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 3rem;
   width: 3rem;
   height: 3rem;
@@ -3970,7 +3978,7 @@ ul.bottom-links > li:not(:first-child):before {
 .get-time-request-wrap .get-time-wrap .get-time-inner {max-width: 100%;}
 
 /*===== Footer Style 2 =====*/
-.widget-box.v2 .social-links3 {margin-top: 2.84375rem;}
+.widget-box.v2 .social-links3 {margin-top: 1rem;}
 .widget-box.v2 .social-links3 > a {background-color: rgba(255,255,255,.05);}
 .working-hours > span:not(:first-child) {margin-top: 1.5625rem;}
 .working-hours > span {
