@@ -67,14 +67,15 @@
 
                                         <span class="d-flex flex-wrap justify-content-between align-items-center w-100">Emel Ekşioğlu-Demiralp<i>Üye</i></span>
                                     </div> -->
-                                    <h3 class="mt-30">Denetim ve Etik Komitesi</h3>
-                                    <p>Sorumlu YK Üyesi: Ali Şengül</p>
+                                    <h3 class="mt-30">Denetleme Kurulu</h3>
+                                    <p>Emel Yantır</p>
+                                    <p>Neslihan Şengül</p>
+                                    <p> Salih Haldun Bal</p>
 
-                                    <p>Haluk Barbaros Oral (Denetim)</p>
-
-                                    <p>Ali İnal (Etik)</p>
-
-                                    <p>Erkan Yılmaz (Etik)</p>
+                                    <h3 class="mt-30">Etik Kurul</h3>
+                                    <p>Ali İnal</p>
+                                    <p>Jülide Tozkır</p>
+                                    <p>Handan Özdemir</p>
                                     <!-- <div class="get-time-box brd-rd10 bg-white w-100">
                                         <span class="d-flex flex-wrap justify-content-between align-items-center w-100">Ali Şengül<i>Sorumlu YK Üyesi</i></span>
 
