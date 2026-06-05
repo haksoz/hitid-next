@@ -25,6 +25,26 @@
                                         <span class="circle-two"></span>
                                     </div>
                                     <div class="image">
+                                        <a href="/faaliyetler/12-haziran-2026-hitid-izmir-bolge-toplantisi.php">
+                                            <img src="/doc/hitid-izmir-bolge-toplantisi-haziran-2026-2-slider2.jpg" alt="12 Haziran 2026 İzmir Bölge Toplantısı Organ Naklinde Güncel Yaklaşımlar" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide">
+                    <div class="container">
+                        <div class="row clearfix justify-content-center">
+                            <!-- Image Column -->
+                            <div class="image-column col-lg-10 cl-md-10 col-sm-10">
+                                <div class="inner-column">
+                                    <div class="circle-layer">
+                                        <span class="circle-one"></span>
+                                        <span class="circle-two"></span>
+                                    </div>
+                                    <div class="image">
                                         <a href="/duyurular/2-hitid-transplantasyon-gunleri-6-subat-2026.php">
                                             <img src="/doc/2-hitid-transplantasyon-gunleri-banner.jpg" alt="2. HİTİD Transplantasyon Günleri, 6 Şubat 2026" />
                                         </a>
