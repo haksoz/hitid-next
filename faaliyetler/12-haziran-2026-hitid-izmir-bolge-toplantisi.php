@@ -37,16 +37,16 @@
                                  <div class="v3 brd-rd10 instagram_widget overflow-hidden ">
 
                                      <p style="text-align: center;">
-                                         <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026.pdf" target="_blank" title="12 Haziran 2026 İzmir Bölge Toplantısı Program" style="color:#ffffff !important;">
+                                         <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026.pdf?v=654" target="_blank" title="12 Haziran 2026 İzmir Bölge Toplantısı Program" style="color:#ffffff !important;">
                                              <i class="fas fa-download"></i>
                                              Programı indirmek için Tıklayın
                                          </a>
                                      </p>
                                  </div>
                                 <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
-                                    <img class="img-fluid w-100 mb-2" src="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026-1.png" alt="12 Haziran 2026 İzmir Bölge Toplantısı Kapak">
-                                    <img class="img-fluid w-100 mb-2" src="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026-2.png" alt="12 Haziran 2026 İzmir Bölge Toplantısı 1">
-                                    <img class="img-fluid w-100 mb-2" src="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026-3.png" alt="12 Haziran 2026 İzmir Bölge Toplantısı 2">
+                                    <img class="img-fluid w-100 mb-2" src="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026-1.png?v=654" alt="12 Haziran 2026 İzmir Bölge Toplantısı Kapak">
+                                    <img class="img-fluid w-100 mb-2" src="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026-2.png?v=654" alt="12 Haziran 2026 İzmir Bölge Toplantısı 1">
+                                    <img class="img-fluid w-100 mb-2" src="/doc/faaliyetler/hitid-izmir-bolge-toplantisi-haziran-2026/hitid-izmir-bolge-toplantisi-haziran-2026-3.png?v=654" alt="12 Haziran 2026 İzmir Bölge Toplantısı 2">
                                 </div>
 
                             </div>
