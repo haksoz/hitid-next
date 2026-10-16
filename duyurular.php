@@ -34,6 +34,9 @@
                                     <div class="post-detail w-100">
                                         <ul class="mb-0 list-unstyled">
                                             <li>
+                                                <a href="/duyurular/2026-yili-olagan-genel-kurul-toplantisi.php">2026 Yılı Olağan Genel Kurul Duyurusu</a>
+                                            </li>
+                                            <li>
                                                 <a href="/faaliyetler/12-haziran-2026-hitid-izmir-bolge-toplantisi.php">İzmir Bölge Toplantısı (Organ Naklinde Güncel Yaklaşımlar), 12 Haziran 2026 </a>
                                             </li>
                                             <li>
